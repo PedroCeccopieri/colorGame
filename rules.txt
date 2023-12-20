@@ -1,0 +1,3 @@
+It's simple. The name of a color will be showed in the screen.
+The goal is to select the button that has the name of the color
+which the color showed is painted. Confused? No? Good.

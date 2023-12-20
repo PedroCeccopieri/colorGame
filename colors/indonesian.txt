@@ -1,0 +1,10 @@
+Merah
+Hijau
+Biru
+Kuning
+Jingga
+Coklat
+Merah Muda
+Ungu
+Putih
+Hitam
